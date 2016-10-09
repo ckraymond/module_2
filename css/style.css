@@ -87,6 +87,21 @@ div > div > div {
   .c3 {
     width: 100%;
   }
+
+  #c1 {
+    width: 94%;
+    margin-left: 4%
+  }
+
+  #c2 {
+    width: 94%;
+    margin-right: 4%
+  }
+
+  #c3 {
+    margin: 0%
+    width: 100%;
+  }
 }
 
 /************** Responsive Framework - Phone **************/
